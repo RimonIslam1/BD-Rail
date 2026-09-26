@@ -1,0 +1,6 @@
+{
+  "name": "BD Rail Tracker",
+  "description": "Bangladesh Railway live train tracking, offline schedules, trip planner, seat booking, and real-time delay notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

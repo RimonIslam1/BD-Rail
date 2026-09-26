@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BD Rail Tracker</string>
+    <string name="nav_live_radar">Live Track</string>
+    <string name="nav_planner">Trip Planner</string>
+    <string name="nav_booking">Book Seats</string>
+    <string name="nav_timetable">Offline Info</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="search_trains_hint">Search train name, code (e.g. 701), or station…</string>
+    <string name="dark_mode_toggle">Toggle Night Rail Mode</string>
+    <string name="offline_ready_badge">Offline Database Active</string>
+    <string name="simulate_delay_action">Test Live Delay Alert</string>
+</resources>
